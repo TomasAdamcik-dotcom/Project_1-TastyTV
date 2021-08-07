@@ -59,9 +59,9 @@ User stories on Miro board available [here.](https://miro.com/app/board/o9J_l9fw
 7.  Into suggestions, I added functionality, where customer can get another suggestion of series in case they don't like the one generated
 8.  In Streaming-now section I added script that will change streaming series according to current time:
 
-- I created object of arrays that contained information I want to change about series such as Title, image, and some description
-- Added method that returns current hour in a day
-- using eventlistener, upon loading the page, script will run throught multiple if statements and will place the correct series into the HTML
+    - I created object of arrays that contained information I want to change about series such as Title, image, and some description
+    - Added method that returns current hour in a day
+    - using eventlistener, upon loading the page, script will run throught multiple if statements and will place the correct series into the HTML
 
 ---
 
