@@ -75,6 +75,9 @@ User stories on Miro board available [here.](https://miro.com/app/board/o9J_l9fw
 
 ### Links
 
+This webite is hostet at [Netlify](https://csb-wcw60.netlify.app/)
+Link to the repository at [Github](https://github.com/TomasAdamcik-dotcom/Project_1-TastyTV.git)
+
 See my Miro board [here.](https://miro.com/app/board/o9J_l9fwBok=/) for the following information:
 
 - Project brief
